@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://weixiaopeng-trade.github.io/sitemap.xml
